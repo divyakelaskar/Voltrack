@@ -5,18 +5,17 @@
 	box-shadow: 0 5px 15px rgb(137, 196, 140);
 	margin: 0 auto;
 	font-family: 'Source Sans Pro', sans-serif;
-  }
+}
   
-  html,
-  body {
+html,body {
 	height: 100%;
 	margin: 0;
 	padding: 0;
 	background-color: rgb(32, 44, 33);
 	font-family: 'Source Sans Pro', sans-serif;
-  }
+}
   
-  .custom-map-control-button {
+.custom-map-control-button {
 	background-color: #fff;
 	border: 0;
 	border-radius: 2px;
@@ -27,27 +26,27 @@
 	overflow: hidden;
 	height: 40px;
 	cursor: pointer;
-  }
-  .custom-map-control-button:hover {
+}
+.custom-map-control-button:hover {
 	background: #ebebeb;
-  }
+}
 
-  .title {
-	  font-size: 5em;
-	  text-align: center;
-	  margin: 0 auto;
-	  padding: 0.6em;
-	  background: rgb(252,255,245);
-	  background: linear-gradient(90deg, rgba(252,255,245,1) 0%, rgba(190,223,102,1) 50%, rgba(162,228,0,1) 100%);
-	  -webkit-background-clip: text;
-  	  -webkit-text-fill-color: transparent; 
-  	  -moz-background-clip: text;
-      -moz-text-fill-color: transparent;
-  }
+.title {
+	font-size: 5em;
+	text-align: center;
+	margin: 0 auto;
+	padding: 0.6em;
+	background: rgb(252,255,245);
+	background: linear-gradient(90deg, rgba(252,255,245,1) 0%, rgba(190,223,102,1) 50%, rgba(162,228,0,1) 100%);
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent; 
+	-moz-background-clip: text;
+	-moz-text-fill-color: transparent;
+}
 
-  footer {
-	  font-size: 1.7em;
-	  text-align: center;
-	  padding: 2em;
-	  color: rgba(190,223,102,1);
+footer {
+	font-size: 1.7em;
+	text-align: center;
+	padding: 2em;
+	color: rgba(190,223,102,1);
   }
