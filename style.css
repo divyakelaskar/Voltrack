@@ -48,5 +48,9 @@ footer {
 	font-size: 1.7em;
 	text-align: center;
 	padding: 2em;
-	color: rgba(190,223,102,1);
+	
   }
+
+a {
+	color: rgba(190,223,102,1);
+}
